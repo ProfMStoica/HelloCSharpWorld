@@ -1,2 +1,8 @@
-﻿//Single-line C# program using top-level statments
-Console.WriteLine("Hello, C# World!");
+﻿class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, C# World!");
+    }
+}
+
